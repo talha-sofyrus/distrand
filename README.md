@@ -119,3 +119,8 @@ Feedback, issues, and pull requests welcome!
 
 If you find this useful, give the repo a ⭐ or share it.  
 Feel free to open [issues](https://github.com/Eggman5800/distrand/issues).
+
+---
+
+## 🌍 Website
+https://example.com
